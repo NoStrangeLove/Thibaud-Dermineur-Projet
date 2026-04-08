@@ -1,0 +1,99 @@
+<!-- NAVBAR -->
+<div class="navbar">
+  <div class="container">
+    <div class="logo">NEXUS<span>.</span>ARENA</div>
+    <div class="nav-links">
+      <a href="#">Technology</a>
+      <a href="#">Experiences</a>
+      <a href="#">Join us</a>
+    </div>
+  </div>
+</div>
+
+<!-- BANNER -->
+<div class="banner">
+  <div class="container">
+    <div class="tag">The future is now</div>
+    <h1>Sport meets<br><span>the metaverse</span></h1>
+    <p>We bring holographic athletes into real stadiums. Real matches. Virtual legends. One arena.</p>
+    <div class="banner-buttons">
+      <a href="#" class="btn">Enter the arena</a>
+      <a href="#" class="btn-pink">Watch trailer</a>
+    </div>
+  </div>
+</div>
+
+<!-- FEATURES SECTION -->
+<div class="features">
+  <div class="container">
+    <h2 class="section-title">How it works</h2>
+    <div class="section-line"></div>
+    <p class="section-subtitle">Three technologies. One seamless experience.</p>
+    <div class="cards">
+      <div class="card">
+        <span class="card-icon">🏟️</span>
+        <h3>Holographic stadiums</h3>
+        <p>We project full-scale virtual athletes in real arenas using our proprietary hologram grid system.</p>
+      </div>
+      <div class="card">
+        <span class="card-icon">🎮</span>
+        <h3>Real-time sync</h3>
+        <p>Every move of the virtual player is driven by a real gamer's input, synced at under 2ms latency.</p>
+      </div>
+      <div class="card">
+        <span class="card-icon">⚡</span>
+        <h3>Live crowd impact</h3>
+        <p>The crowd's energy is captured and fed back into the game — cheer louder, boost your player.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- EXPERIENCES SECTION -->
+<div class="experiences">
+  <div class="container">
+    <h2 class="section-title">Live experiences</h2>
+    <div class="section-line"></div>
+    <p class="section-subtitle">Already played in 3 cities worldwide.</p>
+    <div class="experience-cards">
+      <div class="experience-card">
+        <img src="https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600" alt="Football">
+        <div class="experience-overlay">
+          <h3>Football vs AI</h3>
+          <p>Real players face off against holographic opponents controlled by the best gamers on earth.</p>
+        </div>
+      </div>
+      <div class="experience-card">
+        <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600" alt="Basketball">
+        <div class="experience-overlay">
+          <h3>Holo Basketball</h3>
+          <p>NBA-level athletes share the court with legendary virtual characters from iconic games.</p>
+        </div>
+      </div>
+      <div class="experience-card">
+        <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600" alt="Esport">
+        <div class="experience-overlay">
+          <h3>Arena Esport</h3>
+          <p>50,000 fans. One stage. The world's biggest esport tournament — now live in your stadium.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- TYPEFORM SECTION -->
+<div class="typeform-section">
+  <div class="container">
+    <h2>Get early access</h2>
+    <p>Be the first to experience the next level of sport.</p>
+    <div data-tf-live="TON_ID_TYPEFORM_ICI"></div>
+    <script src="//embed.typeform.com/next/embed.js"></script>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="container">
+    <p>© 2026 NEXUS ARENA — ALL RIGHTS RESERVED</p>
+  </div>
+</div>
